@@ -1,4 +1,5 @@
 def my_hash
+  fav_cars = {"Subaru" => "Wrx", "Honda" => "Civic"}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
